@@ -923,19 +923,19 @@ menu
 }
 
 .card1 {
-  background-image: url("../../../../OneDrive - Chiba Institute of Technology/ビジュアルコンテンツ/2025素材/こだわり1.jpg");
+  background-image: url("img/こだわり1.jpg");
 }
 .card2 {
-  background-image: url("../../../../OneDrive - Chiba Institute of Technology/ビジュアルコンテンツ/2025素材/こだわり2.jpg");
+  background-image: url("img/こだわり2.jpg");
 }
 .card3 {
-  background-image: url("../../../../OneDrive - Chiba Institute of Technology/ビジュアルコンテンツ/2025素材/こだわり3コース料理.jpg");
+  background-image: url("img/こだわり3コース料理.jpg");
 }
 .card4 {
-  background-image: url("../../../../OneDrive - Chiba Institute of Technology/ビジュアルコンテンツ/2025素材/こだわり2または4.jpg");
+  background-image: url("img/こだわり2または4.jpg");
 }
 .card5 {
-  background-image: url("../../../../OneDrive - Chiba Institute of Technology/ビジュアルコンテンツ/2025素材/こだわり5 (2).jpg");
+  background-image: url("img/こだわり5 (2).jpg");
 }
 
 .info {
@@ -1672,3 +1672,4 @@ responsive
     opacity: 0;
   }
 }
+
