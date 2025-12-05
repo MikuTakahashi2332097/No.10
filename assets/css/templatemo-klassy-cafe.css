@@ -923,7 +923,7 @@ menu
 }
 
 .card1 {
-  background-image: url("../../img/こだわり1.jpg");
+  background-image: url("../../../img/こだわり1.jpg");
 }
 .card2 {
   background-image: url("../../img/こだわり2.jpg");
@@ -1672,5 +1672,6 @@ responsive
     opacity: 0;
   }
 }
+
 
 
