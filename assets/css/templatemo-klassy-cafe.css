@@ -929,7 +929,7 @@ menu
   background-image: url("../../img/こだわり2.jpg");
 }
 .card3 {
-  background-image: url("../../img/こだわり3コース料理.jpg");
+  background-image: url("../img/こだわり3コース料理.jpg");
 }
 .card4 {
   background-image: url("../../img/こだわり2または4.jpg");
@@ -1672,6 +1672,7 @@ responsive
     opacity: 0;
   }
 }
+
 
 
 
